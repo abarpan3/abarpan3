@@ -78,8 +78,7 @@ Focus: Programming, Statistics, Simulation
 ## 📫 Let’s Connect
 
 - **Email:** abarpan3@gmail.com  
-- **LinkedIn:** [Insert your actual LinkedIn URL]  
-- **Portfolio / Repositories:** Check out my pinned projects above or explore more below!
+- **LinkedIn:** [https://www.linkedin.com/in/arpan-banerjee98]
 
 ---
 
