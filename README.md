@@ -1,86 +1,77 @@
+# 👋 Hey, I'm Arpan Banerjee
 
-# 👋 Arpan Banerjee
-
-**Data Scientist | DevOps Engineer | MS Business Analytics Candidate**
-
-Hi there! I'm Arpan — a data-driven problem solver and automation enthusiast. With over 4 years of experience across data science and DevOps, and currently pursuing my Master’s in Business Analytics at UC Davis, I specialize in turning complex data into actionable insights and building scalable, reliable systems.
+**Data Scientist • DevOps Engineer • Analytics Nerd with a Human Touch**
 
 ---
 
-## 🧠 What I Do
+🚀 I turn messy data into meaningful stories, and manual chaos into automated bliss.  
+From deploying models in energy systems to building Slack-integrated AI bots — I live at the intersection of **data, code, and curiosity**.
 
-- Transform data into decisions using **ML**, **EDA**, and **data visualization**
-- Build robust data pipelines and automate workflows to save time and reduce errors
-- Translate business needs into analytics solutions that drive results
-
----
-
-## 🛠️ Skills & Toolkit
-
-**Languages & Tools**  
-`Python` | `SQL` | `R` | `Power BI` | `Excel (Advanced)` | `Git` | `GitHub`
-
-**Core Expertise**  
-- Supervised Machine Learning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Storytelling  
-- Automation & Scripting  
-- CI/CD & DevOps Practices  
+Currently sharpening my edge as a **Master’s in Business Analytics** candidate at UC Davis, I bring 4+ years of industry experience spanning **refineries, notaries, and neural nets**. If it’s got a pattern, I’ll find it. If it’s repetitive, I’ll automate it.
 
 ---
 
-## 🎓 Education
+## 🔍 What I'm All About
 
-**University of California, Davis**  
-*Master of Science in Business Analytics (Expected Aug 2025)*  
-📍 San Francisco, CA | GPA: 4.0/4.0  
-Focus: Data Management, Advanced Statistics, ML, Causal Inference  
-
-**Jadavpur University**  
-*Bachelor of Engineering in Chemical Engineering (Jun 2020)*  
-📍 Kolkata, India | GPA: 3.3/4.0  
-Focus: Programming, Statistics, Simulation
+- 🤖 **Machine Learning** that works in the wild (not just notebooks)
+- 📊 **Data Visualization** that tells compelling stories
+- 🔄 **Automation** that saves hours and sanity
+- 🛠️ **DevOps** that makes deployments smooth and reliable
 
 ---
 
-## 💼 Experience Highlights
+## 💼 A Glimpse of My Work
 
-### **The Best Notary** – *Data Analyst, Practicum Project*  
-📅 Aug 2024 – Present  
-- Automated data processes with Python (30% reduction in manual effort)  
-- Built real-time dashboards for operational monitoring  
-- Integrated an AI chatbot to cut info retrieval time
+### 🧠 **The Best Notary** — Data Scientist (Practicum, 2024–Present)
+- Reduced manual data work by 30% using Python automation
+- Built a Slack-integrated AI chatbot that cut info lookup time from 1 hour to 5 minutes  
+🛠 Python • Google Looker Studio • Make • Slack API
 
-### **Honeywell UOP** – *Data Scientist*  
-📅 Mar 2022 – Jun 2024  
-- Improved forecast accuracy by 20%, aiding a ~$13M sale  
-- Discovered ~$0.5M in savings through benchmarking  
-- Enhanced data availability by 30% via automated dashboards  
-- Co-developed early warning system for operational risk
+### 🔬 **Honeywell UOP** — Data Scientist (2022–2024)
+- Developed a predictive model that helped close a **$13M sale**
+- Benchmarked refinery operations, saving clients **$500K+**
+- Created real-time Power BI dashboards for proactive data quality tracking  
+🛠 Python • Power BI • SQL • Multivariate Regression
 
-### **LTI Mindtree** – *DevOps Engineer*  
-📅 Jun 2020 – Feb 2022  
-- Automated QA tests (15% faster test cycles)  
-- Supported CI/CD and production releases (Jenkins, RLM)
+### ⚙️ **LTI Mindtree** — DevOps Engineer (2020–2022)
+- Automated QA tests using Selenium, cutting testing time by 15%
+- Managed production releases with Jenkins, RLM & Linux-based systems  
+🛠 Selenium • Jenkins • RLM • Bash • CI/CD
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Highlight Projects
 
-- 🔁 **Customer Churn Prediction** – ML models to detect at-risk customers  
-- 🍽 **Restaurant Recommender** – Neural network + collaborative filtering  
-- 🏁 **Formula E Lap Time Forecasting** – Top 6% finish using Gradient Boosting  
-- 🎶 **Music Trends Analysis** – Scraped & visualized decades of data  
-- 📸 **Automated Photo Delivery** – Python pipeline cutting time by 75%
+- **🎯 Customer Churn Prediction**  
+  Logistic regression & tree-based models to detect churn, with cost curve prioritization for retention.
 
----
+- **🍽 Restaurant Recommender**  
+  A TensorFlow neural net + collaborative filtering combo for deliciously accurate dining suggestions.
 
-## 📫 Let’s Connect
-
-- **Email:** abarpan3@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/arpan-banerjee98]
+- **📊 Music Trends Visualization** *(Coming Soon)*  
+  Scraping and exploring how our musical taste has evolved over decades.
 
 ---
 
-Thanks for stopping by — happy coding!
+## 📚 Currently @ UC Davis
+
+🎓 MS Business Analytics  
+Focus: Machine Learning, Causal Inference, Data Engineering  
+📍 San Francisco, CA  
+**GPA:** 3.8 / 4.0  
+
+Also: Graduate Tutor for Online MBA students, translating stats into stories with Excel and clarity.
+
+---
+
+## 🤝 Let's Connect
+
+📫 Email: [abarpan3@gmail.com](mailto:abarpan3@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/arpan-banerjee98](https://www.linkedin.com/in/arpan-banerjee98/)  
+💻 Projects: Check out the pinned repos or shoot me a message if you're curious about something!
+
+---
+
+> *“Automate the boring. Model the messy. Tell the story.”*  
+> — That's how I roll.
 
