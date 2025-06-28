@@ -1,66 +1,73 @@
 # 👋 Hey, I'm Arpan Banerjee
 
-**Data Scientist • DevOps Engineer • Analytics Nerd with a Human Touch**
+**Data Analyst • DevOps Engineer • Analytics Nerd with a Human Touch**
 
 ---
 
-🚀 I turn messy data into meaningful stories, and manual chaos into automated bliss.  
-From deploying models in energy systems to building Slack-integrated AI bots — I live at the intersection of **data, code, and curiosity**.
+🚀 I transform messy datasets into actionable insights and automate manual chaos with scalable tools.  
+From building lead-scoring models and MMM frameworks to deploying AI bots and Slack-integrated dashboards — I operate where **data, strategy, and systems** meet.
 
-Currently sharpening my edge as a **Master’s in Business Analytics** candidate at UC Davis, I bring 4+ years of industry experience spanning **refineries, notaries, and neural nets**. If it’s got a pattern, I’ll find it. If it’s repetitive, I’ll automate it.
+Currently finishing my **Master’s in Business Analytics at UC Davis**, I bring 5+ years of global experience spanning **refineries, notaries, and neural nets**. If it’s repetitive, I automate it. If it’s noisy, I model it.
 
 ---
 
 ## 🔍 What I'm All About
 
-- 🤖 **Machine Learning** that works in the wild (not just notebooks)
-- 📊 **Data Visualization** that tells compelling stories
-- 🔄 **Automation** that saves hours and sanity
-- 🛠️ **DevOps** that makes deployments smooth and reliable
+- 📈 **Marketing & Product Analytics** to boost user engagement and optimize spend
+- 🤖 **ML & Statistical Modeling** that impacts GTM, retention, and ops
+- 📊 **Storytelling Dashboards** using Power BI, Looker, Tableau
+- 🔄 **Automation** using Python & APIs to save hours and scale smarter
 
 ---
 
 ## 💼 A Glimpse of My Work
 
-### 🧠 **The Best Notary** — Data Scientist (Practicum, 2024–Present)
-- Reduced manual data work by 30% using Python automation
-- Built a Slack-integrated AI chatbot that cut info lookup time from 1 hour to 5 minutes  
-🛠 Python • Google Looker Studio • Make • Slack API
+### 📬 **The Best Notary** — Data Analyst (Practicum, 2024–Present)
+- Boosted form completion rates by **25%** via GenAI A/B test on UX improvements
+- Reduced lead enrichment cost by **70%** using a Python-based LLM scoring agent
+- Built 3 Looker dashboards unifying AirTable & Sheets, improving ops efficiency by **30%**
+- Created a Slack-based AI chatbot cutting data lookup time from 1 hour → **5 minutes**
+🛠 Python • Looker • Slack API • Make.com • AirTable • Asana
 
-### 🔬 **Honeywell UOP** — Data Scientist (2022–2024)
-- Developed a predictive model that helped close a **$13M sale**
-- Benchmarked refinery operations, saving clients **$500K+**
-- Created real-time Power BI dashboards for proactive data quality tracking  
-🛠 Python • Power BI • SQL • Multivariate Regression
+### 🧪 **Honeywell UOP** — Data Analyst II (2022–2024)
+- Contributed to a **$13M client sale** by modeling product lifespan with multivariate regression
+- Built 5+ Power BI dashboards tracking KPIs across 400+ clients, enabling GTM performance insights
+- Identified **$0.5M in savings** via performance benchmarking across multi-year data
+- Created a Streamlit tool using decision trees to surface optimal operating ranges for customers
+- Built alerting system to prevent **$100K+** in annual losses using moving averages + technical rules
+- Presented at Honeywell Global Tech Conference to **500+ engineers and execs**
+🛠 Python • Power BI • SQL • Streamlit • Regression • Forecasting
 
 ### ⚙️ **LTI Mindtree** — DevOps Engineer (2020–2022)
-- Automated QA tests using Selenium, cutting testing time by 15%
-- Managed production releases with Jenkins, RLM & Linux-based systems  
-🛠 Selenium • Jenkins • RLM • Bash • CI/CD
+- Automated QA using Selenium & Python, reducing test cycles by **15%**
+- Managed 20+ production releases with Jenkins & RLM, improving uptime by **30%**
+🛠 Jenkins • Bash • RLM • Selenium • CI/CD
 
 ---
 
 ## 📈 Highlight Projects
 
-- **🎯 Customer Churn Prediction**  
-  Logistic regression & tree-based models to detect churn, with cost curve prioritization for retention.
+- **🎯 Credit Card A/B Testing**  
+  Modeled test outcomes across 1M+ users to identify offer variants with +0.25% lift in response rate.
 
-- **🍽 Restaurant Recommender**  
-  A TensorFlow neural net + collaborative filtering combo for deliciously accurate dining suggestions.
+- **📊 MMM for Marketing ROI**  
+  Built log-log & square-root models in R across 3 years of weekly data to optimize media mix.
 
-- **📊 Music Trends Visualization** *(Coming Soon)*  
-  Scraping and exploring how our musical taste has evolved over decades.
+- **🧮 Conjoint Pricing Strategy**  
+  Ran Monte Carlo WTP simulations on 1,200+ survey responses to identify price points with 2% market share.
+
+- **📱 Customer Segmentation**  
+  Clustered mobile buyers using k-means + mixture regression for personalized marketing based on price sensitivity.
 
 ---
 
 ## 📚 Currently @ UC Davis
 
-🎓 MS Business Analytics  
-Focus: Machine Learning, Causal Inference, Data Engineering  
+🎓 MS in Business Analytics (GPA: 3.8/4.0)  
+Focus: Machine Learning, Causal Inference, Marketing Analytics  
 📍 San Francisco, CA  
-**GPA:** 3.8 / 4.0  
 
-Also: Graduate Tutor for Online MBA students, translating stats into stories with Excel and clarity.
+Also: MBA Quant Tutor for 50+ students — breaking down stats like t-tests & regression into business stories.
 
 ---
 
@@ -68,10 +75,9 @@ Also: Graduate Tutor for Online MBA students, translating stats into stories wit
 
 📫 Email: [abarpan3@gmail.com](mailto:abarpan3@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/arpan-banerjee98](https://www.linkedin.com/in/arpan-banerjee98/)  
-💻 Projects: Check out the pinned repos or shoot me a message if you're curious about something!
+💻 Projects: Check the pinned repos or reach out if you're curious about something!
 
 ---
 
 > *“Automate the boring. Model the messy. Tell the story.”*  
 > — That's how I roll.
-
